@@ -1,0 +1,15 @@
+button {
+  margin: 16px;
+}
+
+span {
+  color: #ff3838;
+}
+
+span.focused {
+  color: #44ff38;
+}
+.mat-radio-button ~ .mat-radio-button {
+    margin-left: 16px;
+    }
+
